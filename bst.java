@@ -6,7 +6,10 @@ class BinaryTree{
     int key;  //contains data
     Node left;
     Node right;
-
+dweadf
+easfce
+fcwe
+adfcweadf
     Node(int x){
       key=x;
       left=right=null;
