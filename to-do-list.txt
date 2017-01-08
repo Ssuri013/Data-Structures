@@ -1,0 +1,13 @@
+//bipartial
+//cycle detection
+//directed
+//reverse a graph // opp adjacency list //in dorected
+//external sort
+//topological sort
+//strongly connected componentes
+//graph is a binary tree
+//shortest path
+//hashing  - linear probing and double hashing and chaining
+//chain hashing
+//collections.sort
+//volleyball que pascals triangle
